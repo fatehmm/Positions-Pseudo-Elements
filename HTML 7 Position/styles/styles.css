@@ -1,0 +1,36 @@
+.div-class{
+    border: 1px solid black;
+    position: absolute;
+    background-color: aqua;
+}
+.parent-div {
+    width: 45vw;
+    height: 80vh;
+    position: relative;
+    background-color: brown;
+}
+.div1{
+    width: 300px;
+    height: 200px;
+    left: 5px;
+    top: 20px;
+}
+
+.div2{
+    height: 300px;
+    width: 200px;
+    left: 30%;
+    top: 30%;
+}
+.div3{
+    width: 450px;
+    height: 200px;
+    bottom: 5px;
+    left: 20px;
+}
+.div4{
+    width: 200px;
+    height: 600px;
+    right: 5px;
+    top: 10px;
+}
